@@ -8,6 +8,9 @@ Rules:
 
 	- Opignions are given in the form of quotes
 	- They can later be discused
+	- New folders about new topics can be made
+	  as long as it doesn't go into describing 
+	  what is an apple!
 
 
 Structure:
